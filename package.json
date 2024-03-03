@@ -1,0 +1,20 @@
+{
+  "name": "copy-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.13.0",
+    "discord.js-selfbot-v13": "^2.14.10",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT"
+}
